@@ -1,0 +1,11 @@
+==============================
+   AUTOMATED LOG ANALYSIS REPORT   
+==============================
+Date: 2026-02-09 11:06:50.719388
+Total Lines Scanned: (See raw log)
+Issues Found: 2
+------------------------------
+
+CRITICAL ERRORS DETECTED:
+[BUG] Line 2: 10-10 12:00:02.500 E/AndroidRuntime: FATAL EXCEPTION: main
+[BUG] Line 4: 10-10 12:00:05.999 E/ActivityManager: ANR in com.xiaomi.camera
